@@ -1,0 +1,30 @@
+.first{
+    margin: 40px 200px;
+    margin-bottom: 100px;
+    /* background-color: #070066; */
+}
+
+h1{
+    font-size: 60px;
+    font-weight: 900;
+    color: #090087;
+    margin: 30px 0px;
+}
+
+
+p{
+    font-size: 20px;
+    color: #070066;
+    margin-bottom: 50px;
+}
+
+.land-img{
+    border-radius: 10px;
+}
+
+.second{
+    padding: 40px 200px;
+    background-color: #070066;
+    display: flex;
+    justify-content: space-around;
+}

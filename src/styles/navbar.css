@@ -1,0 +1,30 @@
+.navbar{
+    background-color: rgb(1, 25, 87);
+    color: #FFF;
+    padding: 10px 40px;
+}
+
+.nav-link, .active, .navbar-brand{
+    color: #FFF;
+}
+
+.nav-link:hover, .navbar-brand:hover{
+    color: #FFF;
+}
+
+.search{
+    background-color: rgb(189, 194, 207);
+}
+
+.nav-list{
+    margin-left: 35px;
+}
+
+.nav-link{
+    margin-right: 15px;
+}
+
+.btn{
+    margin-left: 10px;
+    padding: 6px 15px;
+}
